@@ -1,6 +1,7 @@
 # 42 Firenze Piscine 🏊
 
 [![42 Firenze](https://img.shields.io/badge/42-Firenze-blue)](https://42firenze.it/)
+[![GitHub license](https://img.shields.io/github/license/Nazar963/42_Piscine_Firenze?cacheSeconds=3600)](https://github.com/Nazar963/42_Piscine_Firenze/blob/main/LICENSE)
 [![Piscine Progress](https://img.shields.io/badge/Progress-76%25-brightgreen)](https://github.com/<your_username>/42-piscine)
 [![C Language](https://img.shields.io/badge/Language-C-00599C)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25)](https://www.gnu.org/software/bash/)

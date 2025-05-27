@@ -58,7 +58,7 @@ The 42 Firenze Piscine is a **30-day intensive programming bootcamp** focusing o
 | Rush01  | Box height map | 3 |
 | Rush02  | Number converter | 3 |
 
-## Daily Progress
+## Weekly Progress
 **Week 1** - Shell Basics & C Fundamentals  
 **Week 2** - Memory Management & Algorithms  
 **Week 3** - Advanced Concepts & Rush Projects  
